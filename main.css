@@ -46,6 +46,11 @@ img.picture_button {
   horizontal-align: middle;
 }
 
+img.calender_icon {
+  height: 25px;
+  width: 25px;
+}
+
 .container {
 	margin: 0 auto;
 	position: relative;
@@ -143,7 +148,7 @@ img.picture_button {
 }
 
 .primary-info {
-	height: 15%;
+	height: 13%;
 }
 
 .secondary-info {
@@ -180,7 +185,7 @@ img.picture_button {
 }
 
 .bottom {
-	height: 23%;
+	height: 17%;
 }
 
 .button {
